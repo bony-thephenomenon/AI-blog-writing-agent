@@ -157,24 +157,30 @@ During development, several real-world engineering challenges were encountered a
 
 ## 🏠 Application Interface
 
+The Streamlit interface allows users to enter a topic, select an as-of date, and generate AI-powered blogs through an interactive multi-agent workflow.
+
 <p align="center">
-  <img src="docs/Home-Page.png" alt="Application Interface" width="900">
+  <img src="docs/home-page.png" alt="Application Interface" width="900">
 </p>
 
 ---
 
 ## 📝 Generated Blog Preview
 
+A generated Markdown blog produced by the LangGraph workflow, enriched with research evidence, structured sections, and AI-generated images.
+
 <p align="center">
-  <img src="docs/Generated_blog.png" alt="Generated Blog Preview" width="900">
+  <img src="docs/generated-blog.png" alt="Generated Blog Preview" width="900">
 </p>
 
 ---
 
 ## 🔍 LangSmith Execution Trace
 
+LangSmith tracing visualizes the execution of each LangGraph node, enabling debugging, monitoring, and inspection of routing decisions, worker execution, and reducer operations.
+
 <p align="center">
-  <img src="docs/Langsmith traces.png" alt="LangSmith Execution Trace" width="900">
+  <img src="docs/langsmith-trace.png" alt="LangSmith Execution Trace" width="900">
 </p>
 
 ---
