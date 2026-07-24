@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Git
+.git/
+.gitignore
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+images/
+*.md
+
+# VS Code
+.vscode/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Backup files
+*_backup.py

@@ -1,13 +1,14 @@
 streamlit
 langgraph
 langchain
-langchain-openai
-langchain-community
 langchain-core
-openai
+langchain-community
+langchain-google-genai
 tavily-python
 python-dotenv
 requests
 pillow
+langsmith
+tenacity
 ipykernel
 jupyter

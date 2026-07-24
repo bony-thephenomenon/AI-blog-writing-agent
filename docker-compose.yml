@@ -1,0 +1,9 @@
+services:
+  ai-blog-writing-agent:
+    build: .
+    container_name: ai-blog-writing-agent
+    ports:
+      - "8502:8501"
+    env_file:
+      - .env
+    restart: unless-stopped
