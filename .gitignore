@@ -14,6 +14,7 @@ __pycache__/
 
 # Generated blog outputs
 *.md
+!README.md
 
 # Generated images
 images/

@@ -20,6 +20,9 @@ venv/
 # Generated outputs
 images/
 *.md
+!README.md
+
+
 
 # VS Code
 .vscode/
